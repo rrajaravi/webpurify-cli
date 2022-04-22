@@ -4,6 +4,16 @@ https://www.webpurify.com/
 
 Profanity Check for text and image along with Content Moderation
 
+
+###  Getting it
+
+To download, either fork this github repo or simply use Pypi via pip.
+```sh
+$ pip install webpurify-cli
+```
+
+### Using it
+
 ```
 Usage: webpurify-cli [OPTIONS] COMMAND [ARGS]...
 
