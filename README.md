@@ -1,6 +1,7 @@
 # webpurify-cli
 
 https://www.webpurify.com/
+https://pypi.org/project/webpurify-cli/
 
 Profanity Check for text and image along with Content Moderation
 
